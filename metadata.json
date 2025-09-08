@@ -1,0 +1,5 @@
+{
+  "name": "AI Crop Advisor",
+  "description": "An AI-powered application that provides personalized crop recommendations for farmers based on their specific soil and environmental conditions.",
+  "requestFramePermissions": []
+}
